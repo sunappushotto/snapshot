@@ -271,7 +271,7 @@
     "createASpace": "Bereich erstellen",
     "registerEnsButton": "Register",
     "supportedEnsTLDs": "Supported domain endings",
-    "helpDocsAndDiscordLinks": "Nicht sicher, wie man einen Space erstellt? Erfahre mehr in der <a target='_blank' href='https://docs.snapshot.org/spaces/create'>Dokumentation</a> oder tritt dem Snapshot <a target='_blank' href='https://discord.gg/snapshot'>Discord</a> bei.",
+    "helpDocsAndDiscordLinks": "Nicht sicher, wie man einen Space erstellt? Erfahre mehr in der <a target='_blank' href='https://docs.snapshot.org/spaces/create'>Dokumentation</a> oder tritt dem Sunappushotto <a target='_blank' href='https://discord.gg/snapshot'>Discord</a> bei.",
     "setSpaceController": "Set space controller address on LNS",
     "editSpaceController": "Edit controller on LNS",
     "setController": "Set controller",
@@ -438,7 +438,7 @@
   },
   "page": {
     "title": {
-      "home": "Snapshot",
+      "home": "Sunappushotto",
       "setup": "Create a space",
       "timeline": "Timeline",
       "explore": "Explore",
@@ -469,7 +469,7 @@
   },
   "unsupportedNetwork": {
     "unsupportedNetwork": "Nicht unterstütztes Netzwerk",
-    "ensOnlyMainnet": "Snapshot unterstützt nur LNS im smartBCH mainnet. Sobald der Space erstellt wurde, können Sie ihn über mehrere Chains hinweg nutzen.",
+    "ensOnlyMainnet": "Sunappushotto unterstützt nur LNS im smartBCH mainnet. Sobald der Space erstellt wurde, können Sie ihn über mehrere Chains hinweg nutzen.",
     "switchNetworkToMainnet": "Um fortzufahren, müssen Sie in Ihrem Wallet auf smartBCH Mainnet wechseln.",
     "switchToMainnet": "Zu Mainnet wechseln"
   }

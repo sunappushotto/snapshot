@@ -18,7 +18,7 @@
   "plugins": "Plugins",
   "information": "Information",
   "confirm": "Confirm",
-  "snapshot": "Snapshot",
+  "snapshot": "Sunappushotto",
   "strategies": "Strategie(s)",
   "strategiesPage": "Strategies",
   "space": "Space",
@@ -134,7 +134,7 @@
   "newSpaceNotice": {
     "header": "Your space is live!",
     "mainText": "By default each voter has a voting power of one. You can change how voting power is calculated via strategies in your {settings}. Changes to your settings will only affect new proposals, existing proposals can not be changed.",
-    "learnMore": "Learn more in the {documentation} or join Snapshot {discord} for help.",
+    "learnMore": "Learn more in the {documentation} or join Sunappushotto {discord} for help.",
     "gotIt": "Got it!"
   },
   "errors": {
@@ -161,7 +161,7 @@
     "endTime": "Select end time",
     "publish": "Publish",
     "untitled": "Untitled",
-    "snapshotBlock": "Snapshot block number",
+    "snapshotBlock": "Sunappushotto block number",
     "voting": "Voting",
     "votingSystem": "Voting system",
     "choice": "Choice {0}",
@@ -294,7 +294,7 @@
     "createASpace": "Create a space",
     "registerEnsButton": "Register",
     "supportedEnsTLDs": "Supported domain endings",
-    "helpDocsAndDiscordLinks": "Not sure how to create a space? Learn more in the <a target='_blank' href='https://docs.snapshot.org/spaces/create'> documentation </a> or join Snapshot <a target='_blank' href='https://discord.gg/snapshot'>Discord</a>.",
+    "helpDocsAndDiscordLinks": "Not sure how to create a space? Learn more in the <a target='_blank' href='https://docs.snapshot.org/spaces/create'> documentation </a> or join Sunappushotto <a target='_blank' href='https://discord.gg/snapshot'>Discord</a>.",
     "setSpaceController": "Set space controller address on LNS",
     "editSpaceController": "Edit controller on LNS",
     "setController": "Set controller",
@@ -463,7 +463,7 @@
   },
   "page": {
     "title": {
-      "home": "Snapshot",
+      "home": "Sunappushotto",
       "setup": "Create a space",
       "timeline": "Timeline",
       "notifications": "Notifications",
@@ -495,7 +495,7 @@
   },
   "unsupportedNetwork": {
     "unsupportedNetwork": "Unsupported network",
-    "ensOnlyMainnet": "Snapshot only supports LNS on the smartBCH mainnet. Once the space is created, you can use it across multiple chains.",
+    "ensOnlyMainnet": "Sunappushotto only supports LNS on the smartBCH mainnet. Once the space is created, you can use it across multiple chains.",
     "switchNetworkToMainnet": "To continue, you need to change the network in your wallet to smartBCH Mainnet.",
     "switchToMainnet": "Switch to Mainnet"
   }

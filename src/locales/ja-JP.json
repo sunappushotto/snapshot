@@ -18,7 +18,7 @@
   "plugins": "プラグイン",
   "information": "情報",
   "confirm": "確認",
-  "snapshot": "Snapshot",
+  "snapshot": "Sunappushotto",
   "strategies": "ストラテジー",
   "strategiesPage": "ストラテジー",
   "space": "スペース",
@@ -44,7 +44,7 @@
   "edit3box": "3Boxでプロフィールを編集する",
   "connectWallet": "ウォレットを接続",
   "toggleSkin": "スキンの切り替え",
-  "about": "Snapshotについて",
+  "about": "Sunappushottoについて",
   "license": "ライセンス",
   "ipfsServer": "IPFSサーバ",
   "hub": "ハブ",
@@ -151,7 +151,7 @@
     "endTime": "終了日を選択する",
     "publish": "公開",
     "untitled": "Untitled",
-    "snapshotBlock": "Snapshotのブロック高",
+    "snapshotBlock": "Sunappushottoのブロック高",
     "voting": "Voting",
     "votingSystem": "Voting system",
     "choice": "Choice {0}",
@@ -227,7 +227,7 @@
     "profile": "プロフィール",
     "avatar": "アバター",
     "name": "名前",
-    "about": "Snapshotについて",
+    "about": "Sunappushottoについて",
     "terms": "利用規約",
     "network": "ネットワーク",
     "symbol": "シンボル",
@@ -271,7 +271,7 @@
     "createASpace": "スペースの作成",
     "registerEnsButton": "Register",
     "supportedEnsTLDs": "Supported domain endings",
-    "helpDocsAndDiscordLinks": "Not sure how to create a space? Learn more in the <a target='_blank' href='https://docs.snapshot.org/spaces/create'> documentation </a> or join Snapshot <a target='_blank' href='https://discord.gg/snapshot'>Discord</a>.",
+    "helpDocsAndDiscordLinks": "Not sure how to create a space? Learn more in the <a target='_blank' href='https://docs.snapshot.org/spaces/create'> documentation </a> or join Sunappushotto <a target='_blank' href='https://discord.gg/snapshot'>Discord</a>.",
     "setSpaceController": "Set space controller address on LNS",
     "editSpaceController": "Edit controller on LNS",
     "setController": "Set controller",
@@ -438,7 +438,7 @@
   },
   "page": {
     "title": {
-      "home": "Snapshot",
+      "home": "Sunappushotto",
       "setup": "スペースを作成",
       "timeline": "タイムライン",
       "explore": "探す",
@@ -469,7 +469,7 @@
   },
   "unsupportedNetwork": {
     "unsupportedNetwork": "Unsupported network",
-    "ensOnlyMainnet": "Snapshot only supports LNS on the smartBCH mainnet. Once the space is created, you can use it across multiple chains.",
+    "ensOnlyMainnet": "Sunappushotto only supports LNS on the smartBCH mainnet. Once the space is created, you can use it across multiple chains.",
     "switchNetworkToMainnet": "To continue, you need to change the network in your wallet to smartBCH Mainnet.",
     "switchToMainnet": "Switch to Mainnet"
   }
