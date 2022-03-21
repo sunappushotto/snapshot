@@ -26,7 +26,7 @@ const switchToMainnet = async () => {
       method: 'wallet_switchEthereumChain',
       params: [
         {
-          chainId: '0x1'
+          chainId: '0x2710'
         }
       ]
     });
