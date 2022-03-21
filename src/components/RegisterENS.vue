@@ -1,6 +1,6 @@
 <script setup>
 /**
- * An input with ENS TLD validation and a register button, forwarding to app.ens.domains.
+ * An input with ENS TLD validation and a register button, forwarding to app.bch.domains.
  * Emits waitForRegistration event when Register button is clicked, to trigger domain lookup in background.
  */
 
@@ -46,7 +46,7 @@ const isValidDomain = computed(() => {
   </BaseButton>
   <BaseLink
     @click="$emit('waitForRegistration')"
-    :link="`https://app.ens.domains/name/${modelValue}/register`"
+    :link="`https://app.bch.domains/name/${modelValue}/register`"
     hide-external-icon
   >
     <BaseButton :disabled="!isValidDomain" class="w-full mt-2" primary>

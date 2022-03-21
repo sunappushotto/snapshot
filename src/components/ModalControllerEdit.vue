@@ -35,7 +35,7 @@ defineEmits(['close', 'set']);
           })
         }}
         <div>
-          <BaseLink :link="`https://app.ens.domains/name/${ensAddress}`">
+          <BaseLink :link="`https://app.bch.domains/name/${ensAddress}`">
             {{ $t('setup.seeOnEns') }}
           </BaseLink>
         </div>
