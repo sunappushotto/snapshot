@@ -1,5 +1,5 @@
 {
-  "name": "snapshot",
+  "name": "sunappushotto",
   "version": "0.1.4",
   "scripts": {
     "preinstall": "yarn run init-submodules",
