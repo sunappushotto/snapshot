@@ -40,7 +40,7 @@ async function handleLogin(connector) {
             class="flex items-center"
             style="font-size: 24px"
           >
-            snapshot
+            sunappushotto
           </router-link>
         </div>
         <div :key="web3Account" class="flex space-x-2">
