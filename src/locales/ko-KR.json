@@ -263,7 +263,7 @@
     "connectWithSpaceOwner": "공간 설정을 수정하려면 관리자 또는 어드민 지갑에 연결하세요."
   },
   "setup": {
-    "example": "예시 yam.eth",
+    "example": "예시 yam.bch",
     "chooseExistingEns": "공간을 만드는데 사용할 LNS 도메인 선택:",
     "useSingleExistingEns": "당신의 LNS 도메인을 사용하세요:",
     "orReigsterNewEns": "또는 새로운 도메인을 등록하세요:",

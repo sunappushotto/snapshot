@@ -263,7 +263,7 @@
     "connectWithSpaceOwner": "要修改空间设置，请连接控制人或管理员钱包。"
   },
   "setup": {
-    "example": "例如 yam.eth",
+    "example": "例如 yam.bch",
     "chooseExistingEns": "选择您现有的一个LNS域名来创建空间：",
     "useSingleExistingEns": "使用您现有的LNS域名：",
     "orReigsterNewEns": "或者注册一个新的域名：",

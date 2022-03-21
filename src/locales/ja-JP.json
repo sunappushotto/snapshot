@@ -263,7 +263,7 @@
     "connectWithSpaceOwner": "To modify space settings, connect with a controller or admin wallet."
   },
   "setup": {
-    "example": "例 yam.eth",
+    "example": "例 yam.bch",
     "chooseExistingEns": "Choose one of your existing LNS domains to create a space with:",
     "useSingleExistingEns": "Use your existing LNS domain:",
     "orReigsterNewEns": "Or register a new domain:",
