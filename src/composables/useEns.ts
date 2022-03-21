@@ -4,7 +4,7 @@ import { ENS_QUERY } from '@/helpers/queries';
 import { useWeb3 } from '@/composables/useWeb3';
 
 export function useEns() {
-  const validEnsTlds = ['eth', 'xyz', 'com', 'org', 'io', 'app', 'art'];
+  const validEnsTlds = ['bch'];
 
   const { ensApolloQuery } = useApolloQuery();
   const { web3Account } = useWeb3();
