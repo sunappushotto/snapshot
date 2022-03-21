@@ -6,19 +6,19 @@ import { useProfiles } from '@/composables/useProfiles';
 import { isAddress } from '@ethersproject/address';
 import { formatBytes32String } from '@ethersproject/strings';
 import { getInstance } from '@snapshot-labs/lock/plugins/vue3';
-import networks from '@snapshot-labs/snapshot.js/src/networks.json';
+import networks from '@sunappushotto/sunappushotto.js/src/networks.json';
 import {
   sendTransaction,
   getScores
-} from '@snapshot-labs/snapshot.js/src/utils';
-import getProvider from '@snapshot-labs/snapshot.js/src/utils/provider';
+} from '@sunappushotto/sunappushotto.js/src/utils';
+import getProvider from '@sunappushotto/sunappushotto.js/src/utils/provider';
 import {
   getDelegates,
   getDelegators,
   getDelegatesBySpace,
   contractAddress
 } from '@/helpers/delegation';
-import { sleep } from '@snapshot-labs/snapshot.js/src/utils';
+import { sleep } from '@sunappushotto/sunappushotto.js/src/utils';
 import { useWeb3 } from '@/composables/useWeb3';
 import { useTxStatus } from '@/composables/useTxStatus';
 import { shorten } from '@/helpers/utils';
@@ -28,7 +28,7 @@ import { SPACE_DELEGATE_QUERY } from '@/helpers/queries';
 import { useApolloQuery } from '@/composables/useApolloQuery';
 import { useModal } from '@/composables/useModal';
 import { useEns } from '@/composables/useEns';
-import { SNAPSHOT_SUBGRAPH_URL } from '@snapshot-labs/snapshot.js/src/utils';
+import { SNAPSHOT_SUBGRAPH_URL } from '@sunappushotto/sunappushotto.js/src/utils';
 
 const abi = ['function setDelegate(bytes32 id, address delegate)'];
 

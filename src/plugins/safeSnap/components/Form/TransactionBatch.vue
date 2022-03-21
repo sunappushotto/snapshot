@@ -1,5 +1,5 @@
 <script>
-import { clone } from '@snapshot-labs/snapshot.js/src/utils';
+import { clone } from '@sunappushotto/sunappushotto.js/src/utils';
 import { useSafesnap } from '@/plugins/safeSnap/composables/useSafesnap';
 import chevronIcon from '@/assets/icons/chevron.svg';
 import { createBatch, ERC20_ABI, ERC721_ABI } from '../../index';

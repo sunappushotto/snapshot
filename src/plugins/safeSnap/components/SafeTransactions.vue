@@ -5,7 +5,7 @@ import Plugin, {
   getGnosisSafeBalances,
   getGnosisSafeCollectibles
 } from '../index';
-import networks from '@snapshot-labs/snapshot.js/src/networks.json';
+import networks from '@sunappushotto/sunappushotto.js/src/networks.json';
 import { getIpfsUrl, shorten } from '@/helpers/utils';
 
 import SafeSnapTooltip from './Tooltip.vue';

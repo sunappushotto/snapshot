@@ -1,5 +1,5 @@
 <script setup>
-import { getUrl } from '@snapshot-labs/snapshot.js/src/utils.ts';
+import { getUrl } from '@sunappushotto/sunappushotto.js/src/utils.ts';
 
 const props = defineProps({ open: Boolean, space: Object });
 

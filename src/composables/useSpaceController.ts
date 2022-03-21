@@ -2,12 +2,12 @@ import { computed, ref, inject } from 'vue';
 import { getInstance } from '@snapshot-labs/lock/plugins/vue3';
 import namehash from '@ensdomains/eth-ens-namehash';
 import { useTxStatus } from '../composables/useTxStatus';
-import networks from '@snapshot-labs/snapshot.js/src/networks.json';
+import networks from '@sunappushotto/sunappushotto.js/src/networks.json';
 import { getAddress } from '@ethersproject/address';
 import { useI18n } from '@/composables/useI18n';
 import { useWeb3 } from '@/composables/useWeb3';
 import { isAddress } from '@ethersproject/address';
-import { sendTransaction } from '@snapshot-labs/snapshot.js/src/utils';
+import { sendTransaction } from '@sunappushotto/sunappushotto.js/src/utils';
 
 const ensAddress = ref('');
 const spaceControllerInput = ref('');

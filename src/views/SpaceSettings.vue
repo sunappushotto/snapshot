@@ -2,8 +2,8 @@
 import { computed, ref, inject, watch, onMounted } from 'vue';
 import { useI18n } from '@/composables/useI18n';
 import { getAddress } from '@ethersproject/address';
-import schemas from '@snapshot-labs/snapshot.js/src/schemas';
-import networks from '@snapshot-labs/snapshot.js/src/networks.json';
+import schemas from '@sunappushotto/sunappushotto.js/src/schemas';
+import networks from '@sunappushotto/sunappushotto.js/src/networks.json';
 import defaults from '@/locales/default';
 import { useWeb3 } from '@/composables/useWeb3';
 import { calcFromSeconds, calcToSeconds } from '@/helpers/utils';
@@ -16,7 +16,7 @@ import {
   validateSchema,
   getSpaceUri,
   clone
-} from '@snapshot-labs/snapshot.js/src/utils';
+} from '@sunappushotto/sunappushotto.js/src/utils';
 
 const props = defineProps({
   space: Object,

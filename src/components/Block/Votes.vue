@@ -3,7 +3,7 @@ import { ref, computed, watch, toRefs } from 'vue';
 import { shorten, getChoiceString } from '@/helpers/utils';
 import { useProfiles } from '@/composables/useProfiles';
 import { useWeb3 } from '@/composables/useWeb3';
-import { clone } from '@snapshot-labs/snapshot.js/src/utils';
+import { clone } from '@sunappushotto/sunappushotto.js/src/utils';
 import uniqBy from 'lodash/uniqBy';
 import { useIntl } from '@/composables/useIntl';
 

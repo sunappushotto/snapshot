@@ -1,5 +1,5 @@
 import { ref } from 'vue';
-import { subgraphRequest } from '@snapshot-labs/snapshot.js/src/utils';
+import { subgraphRequest } from '@sunappushotto/sunappushotto.js/src/utils';
 import { lsGet } from '@/helpers/utils';
 
 type proposal = { id: string; created: number; space: { id: string } };

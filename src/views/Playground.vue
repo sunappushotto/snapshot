@@ -1,16 +1,16 @@
 <script setup>
 import { ref, computed, onMounted, watch } from 'vue';
 import { useRoute, useRouter } from 'vue-router';
-import networks from '@snapshot-labs/snapshot.js/src/networks.json';
-import getProvider from '@snapshot-labs/snapshot.js/src/utils/provider';
-import { getBlockNumber } from '@snapshot-labs/snapshot.js/src/utils/web3';
-import { getScores } from '@snapshot-labs/snapshot.js/src/utils';
+import networks from '@sunappushotto/sunappushotto.js/src/networks.json';
+import getProvider from '@sunappushotto/sunappushotto.js/src/utils/provider';
+import { getBlockNumber } from '@sunappushotto/sunappushotto.js/src/utils/web3';
+import { getScores } from '@sunappushotto/sunappushotto.js/src/utils';
 import { useI18n } from '@/composables/useI18n';
 import { useCopy } from '@/composables/useCopy';
 import { decode, encode } from '@/helpers/b64';
 import { useIntl } from '@/composables/useIntl';
 import { useStrategies } from '@/composables/useStrategies';
-import { validateSchema } from '@snapshot-labs/snapshot.js/src/utils';
+import { validateSchema } from '@sunappushotto/sunappushotto.js/src/utils';
 
 const defaultParams = {
   symbol: 'BAL',

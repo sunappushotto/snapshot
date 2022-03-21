@@ -1,5 +1,5 @@
 import { StaticJsonRpcProvider } from '@ethersproject/providers';
-import { multicall } from '@snapshot-labs/snapshot.js/src/utils';
+import { multicall } from '@sunappushotto/sunappushotto.js/src/utils';
 import { REALITY_MODULE_ABI, ORACLE_ABI } from '../constants';
 import { HashZero } from '@ethersproject/constants';
 import { BigNumber } from '@ethersproject/bignumber';

@@ -1,9 +1,9 @@
 import pkg from '@/../package.json';
 import { formatEther } from '@ethersproject/units';
 import { BigNumber } from '@ethersproject/bignumber';
-import networks from '@snapshot-labs/snapshot.js/src/networks.json';
-import voting from '@snapshot-labs/snapshot.js/src/voting';
-import { getUrl } from '@snapshot-labs/snapshot.js/src/utils';
+import networks from '@sunappushotto/sunappushotto.js/src/networks.json';
+import voting from '@sunappushotto/sunappushotto.js/src/voting';
+import { getUrl } from '@sunappushotto/sunappushotto.js/src/utils';
 
 export function shortenAddress(str = '') {
   return `${str.slice(0, 6)}...${str.slice(str.length - 4)}`;

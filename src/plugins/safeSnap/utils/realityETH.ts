@@ -1,6 +1,6 @@
 import { StaticJsonRpcProvider } from '@ethersproject/providers';
 import { BigNumber } from '@ethersproject/bignumber';
-import { multicall } from '@snapshot-labs/snapshot.js/src/utils';
+import { multicall } from '@sunappushotto/sunappushotto.js/src/utils';
 import { ORACLE_ABI } from '../constants';
 
 export const retrieveInfoFromOracle = async (

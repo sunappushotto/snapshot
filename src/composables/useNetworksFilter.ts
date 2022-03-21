@@ -6,7 +6,7 @@
 import { ref } from 'vue';
 import { useApolloQuery } from '@/composables/useApolloQuery';
 import { NETWORKS_COUNT_QUERY } from '@/helpers/queries';
-import networks from '@snapshot-labs/snapshot.js/src/networks.json';
+import networks from '@sunappushotto/sunappushotto.js/src/networks.json';
 
 const networksSpacesCount: any = ref(null);
 

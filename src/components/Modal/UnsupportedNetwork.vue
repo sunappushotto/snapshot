@@ -3,7 +3,7 @@ import { getInstance } from '@snapshot-labs/lock/plugins/vue3';
 import { computed, ref } from 'vue';
 import { useI18n } from '../../composables/useI18n';
 import { useFlashNotification } from '../../composables/useFlashNotification';
-import { sleep } from '@snapshot-labs/snapshot.js/src/utils';
+import { sleep } from '@sunappushotto/sunappushotto.js/src/utils';
 
 defineProps<{
   open: boolean;

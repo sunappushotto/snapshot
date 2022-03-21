@@ -1,6 +1,6 @@
 <script setup>
 import pkg from '@/../package.json';
-import gateways from '@snapshot-labs/snapshot.js/src/gateways.json';
+import gateways from '@sunappushotto/sunappushotto.js/src/gateways.json';
 import { useWeb3 } from '@/composables/useWeb3';
 
 defineProps(['open']);

@@ -1,6 +1,6 @@
 <script setup>
 import { ref, watch } from 'vue';
-import { percentageOfTotal } from '@snapshot-labs/snapshot.js/src/voting/quadratic';
+import { percentageOfTotal } from '@sunappushotto/sunappushotto.js/src/voting/quadratic';
 import { useMediaQuery } from '@vueuse/core';
 
 defineProps({

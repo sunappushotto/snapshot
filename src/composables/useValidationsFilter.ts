@@ -6,7 +6,7 @@
 import { ref } from 'vue';
 import { useApolloQuery } from '@/composables/useApolloQuery';
 import { VALIDATIONS_COUNT_QUERY } from '@/helpers/queries';
-import validations from '@snapshot-labs/snapshot.js/src/validations';
+import validations from '@sunappushotto/sunappushotto.js/src/validations';
 
 const validationsSpacesCount: any = ref(null);
 

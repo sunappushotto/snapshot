@@ -1,10 +1,10 @@
 <script setup>
 import { ref, toRef, watch } from 'vue';
-import { clone } from '@snapshot-labs/snapshot.js/src/utils';
+import { clone } from '@sunappushotto/sunappushotto.js/src/utils';
 import { useFlashNotification } from '@/composables/useFlashNotification';
 import { useModal } from '@/composables/useModal';
 import { useWeb3 } from '@/composables/useWeb3';
-import { signMessage } from '@snapshot-labs/snapshot.js/src/utils/web3';
+import { signMessage } from '@sunappushotto/sunappushotto.js/src/utils/web3';
 import { getInstance } from '@snapshot-labs/lock/plugins/vue3';
 import { useI18n } from '@/composables/useI18n';
 

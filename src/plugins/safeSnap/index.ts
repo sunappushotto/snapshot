@@ -12,8 +12,8 @@ import {
   call,
   multicall,
   sendTransaction
-} from '@snapshot-labs/snapshot.js/src/utils';
-import getProvider from '@snapshot-labs/snapshot.js/src/utils/provider';
+} from '@sunappushotto/sunappushotto.js/src/utils';
+import getProvider from '@sunappushotto/sunappushotto.js/src/utils/provider';
 import { ModuleTransaction, ProposalDetails } from './models';
 import {
   EIP712_TYPES,

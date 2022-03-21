@@ -15,7 +15,7 @@ jobs:
           node-version: '14.x'
       - name: Update snapshot.js
         run: |
-          yarn upgrade @snapshot-labs/snapshot.js --latest
+          yarn upgrade @sunappushotto/sunappushotto.js --latest
       - name: Update lock.js
         run: |
           yarn upgrade @snapshot-labs/lock --latest

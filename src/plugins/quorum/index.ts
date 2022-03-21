@@ -1,5 +1,5 @@
 import { BigNumber } from '@ethersproject/bignumber';
-import { call } from '@snapshot-labs/snapshot.js/src/utils';
+import { call } from '@sunappushotto/sunappushotto.js/src/utils';
 
 export default class Plugin {
   public author = 'lbeder';

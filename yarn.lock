@@ -1021,9 +1021,9 @@
     fortmatic "^2.2.1"
     walletlink "^2.4.0"
 
-"@snapshot-labs/snapshot.js@^0.3.56":
+"@sunappushotto/sunappushotto.js@^0.3.56":
   version "0.3.56"
-  resolved "https://registry.yarnpkg.com/@snapshot-labs/snapshot.js/-/snapshot.js-0.3.56.tgz#3e27a2260a1bc9abc13e9fa7c43fa4bdaa947132"
+  resolved "https://registry.yarnpkg.com/@sunappushotto/sunappushotto.js/-/snapshot.js-0.3.56.tgz#3e27a2260a1bc9abc13e9fa7c43fa4bdaa947132"
   integrity sha512-94vzyWc3ZzlLIzxn1/K5G2J0scp5kjn6aKV3YisyZo6wXqhubt4girVG6Jotjq7b+DAlAiaXrXxWRtYxefhupg==
   dependencies:
     "@ensdomains/eth-ens-namehash" "^2.0.15"

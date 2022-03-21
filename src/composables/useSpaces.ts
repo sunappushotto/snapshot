@@ -1,7 +1,7 @@
 import { ref, computed } from 'vue';
 import { useRoute } from 'vue-router';
 import orderBy from 'lodash/orderBy';
-import networks from '@snapshot-labs/snapshot.js/src/networks.json';
+import networks from '@sunappushotto/sunappushotto.js/src/networks.json';
 import verified from '@/../snapshot-spaces/spaces/verified.json';
 import verifiedSpacesCategories from '@/../snapshot-spaces/spaces/categories.json';
 

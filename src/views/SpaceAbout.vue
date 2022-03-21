@@ -1,8 +1,8 @@
 <script setup>
 import { computed, onMounted } from 'vue';
-import networks from '@snapshot-labs/snapshot.js/src/networks.json';
+import networks from '@sunappushotto/sunappushotto.js/src/networks.json';
 import { useProfiles } from '@/composables/useProfiles';
-import { getUrl } from '@snapshot-labs/snapshot.js/src/utils';
+import { getUrl } from '@sunappushotto/sunappushotto.js/src/utils';
 import { useI18n } from '@/composables/useI18n';
 import { useIntl } from '@/composables/useIntl';
 

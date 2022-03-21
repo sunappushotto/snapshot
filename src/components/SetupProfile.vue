@@ -1,9 +1,9 @@
 <script setup lang="ts">
 import { ref, computed, inject } from 'vue';
-import schemas from '@snapshot-labs/snapshot.js/src/schemas';
-import { sleep, validateSchema } from '@snapshot-labs/snapshot.js/src/utils';
+import schemas from '@sunappushotto/sunappushotto.js/src/schemas';
+import { sleep, validateSchema } from '@sunappushotto/sunappushotto.js/src/utils';
 import { useValidationErrors } from '@/composables/useValidationErrors';
-import networks from '@snapshot-labs/snapshot.js/src/networks.json';
+import networks from '@sunappushotto/sunappushotto.js/src/networks.json';
 import { useClient } from '@/composables/useClient';
 import { useI18n } from '@/composables/useI18n';
 import { useRouter } from 'vue-router';

@@ -3,7 +3,7 @@ import { onMounted, ref } from 'vue';
 import { shorten } from '@/helpers/utils';
 import { useSpaceController } from '@/composables/useSpaceController';
 import { useRouter, useRoute } from 'vue-router';
-import { getSpaceUri } from '@snapshot-labs/snapshot.js/src/utils';
+import { getSpaceUri } from '@sunappushotto/sunappushotto.js/src/utils';
 
 const router = useRouter();
 const route = useRoute();

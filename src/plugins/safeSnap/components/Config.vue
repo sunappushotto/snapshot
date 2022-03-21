@@ -1,5 +1,5 @@
 <script>
-import { clone } from '@snapshot-labs/snapshot.js/src/utils';
+import { clone } from '@sunappushotto/sunappushotto.js/src/utils';
 import { coerceConfig, isValidInput, getSafeHash } from '../index';
 import { useSafesnap } from '@/plugins/safeSnap/composables/useSafesnap';
 

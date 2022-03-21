@@ -6,7 +6,7 @@ import memoize from 'lodash/memoize';
 import SafeSnapPlugin, { MULTI_SEND_VERSION } from '../index';
 import { createMultiSendTx, getMultiSend } from './multiSend';
 import { ModuleTransaction, SafeData } from '../models';
-import getProvider from '@snapshot-labs/snapshot.js/src/utils/provider';
+import getProvider from '@sunappushotto/sunappushotto.js/src/utils/provider';
 
 export const mustBeEthereumAddress = memoize((address: string) => {
   const startsWith0x = address?.startsWith('0x');

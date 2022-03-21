@@ -1,8 +1,8 @@
 <script setup lang="ts">
 import { ref, computed, toRefs, watch } from 'vue';
-import { clone } from '@snapshot-labs/snapshot.js/src/utils';
+import { clone } from '@sunappushotto/sunappushotto.js/src/utils';
 import { useStrategies } from '@/composables/useStrategies';
-import { validateSchema } from '@snapshot-labs/snapshot.js/src/utils';
+import { validateSchema } from '@sunappushotto/sunappushotto.js/src/utils';
 import { useNetworksFilter } from '@/composables/useNetworksFilter';
 import { getIpfsUrl } from '@/helpers/utils';
 const defaultParams = {

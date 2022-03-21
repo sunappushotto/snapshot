@@ -1,6 +1,6 @@
 <script>
 import Plugin from '../index';
-import getProvider from '@snapshot-labs/snapshot.js/src/utils/provider';
+import getProvider from '@sunappushotto/sunappushotto.js/src/utils/provider';
 import { shorten } from '@/helpers/utils';
 
 export default {

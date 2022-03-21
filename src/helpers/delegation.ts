@@ -1,7 +1,7 @@
 import {
   SNAPSHOT_SUBGRAPH_URL,
   subgraphRequest
-} from '@snapshot-labs/snapshot.js/src/utils';
+} from '@sunappushotto/sunappushotto.js/src/utils';
 
 export const contractAddress = '0x469788fE6E9E9681C6ebF3bF78e7Fd26Fc015446';
 
