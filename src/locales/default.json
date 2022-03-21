@@ -298,7 +298,7 @@
     "setSpaceController": "Set space controller address on LNS",
     "editSpaceController": "Edit controller on LNS",
     "setController": "Set controller",
-    "explainControllerAndEns": "This action requires a transaction on the Ethereum Mainnet which will add a \"snapshot\" TEXT record to your LNS domain.",
+    "explainControllerAndEns": "This action requires a transaction on the smartBCH Mainnet which will add a \"snapshot\" TEXT record to your LNS domain.",
     "confirmToSetAddress": "Are you sure you want to set {address} as the controller of the space?",
     "controllerHasAuthority": "The controller has full authority over the space settings",
     "controller": "Controller",
@@ -495,8 +495,8 @@
   },
   "unsupportedNetwork": {
     "unsupportedNetwork": "Unsupported network",
-    "ensOnlyMainnet": "Snapshot only supports LNS on the ethereum mainnet. Once the space is created, you can use it across multiple chains.",
-    "switchNetworkToMainnet": "To continue, you need to change the network in your wallet to Ethereum Mainnet.",
+    "ensOnlyMainnet": "Snapshot only supports LNS on the smartBCH mainnet. Once the space is created, you can use it across multiple chains.",
+    "switchNetworkToMainnet": "To continue, you need to change the network in your wallet to smartBCH Mainnet.",
     "switchToMainnet": "Switch to Mainnet"
   }
 }

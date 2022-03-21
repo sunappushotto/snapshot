@@ -275,7 +275,7 @@
     "setSpaceController": "在 LNS 上设置空间控制人地址",
     "editSpaceController": "在 LNS 上编辑控制人",
     "setController": "设置控制人",
-    "explainControllerAndEns": "此操作需要在Ethereum Mainnet上进行交易，该交易会将“snapshot”文本记录添加到您的 LNS 域。",
+    "explainControllerAndEns": "此操作需要在smartBCH Mainnet上进行交易，该交易会将“snapshot”文本记录添加到您的 LNS 域。",
     "confirmToSetAddress": "您确定要设置 {address} 作为空间的控制人吗？",
     "controllerHasAuthority": "管理员对空间设置拥有所有权限",
     "controller": "控制人",
@@ -470,7 +470,7 @@
   "unsupportedNetwork": {
     "unsupportedNetwork": "不支持的网络",
     "ensOnlyMainnet": "Snapshot仅支持以太坊主网上的 LNS。 创建空间后，您可以跨链使用它。",
-    "switchNetworkToMainnet": "若要继续，您需要将你钱包中的网络更改为Ethereum Mainnet。",
+    "switchNetworkToMainnet": "若要继续，您需要将你钱包中的网络更改为smartBCH Mainnet。",
     "switchToMainnet": "切换到Mainnet"
   }
 }
