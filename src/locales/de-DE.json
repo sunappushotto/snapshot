@@ -271,7 +271,7 @@
     "createASpace": "Bereich erstellen",
     "registerEnsButton": "Register",
     "supportedEnsTLDs": "Supported domain endings",
-    "helpDocsAndDiscordLinks": "Nicht sicher, wie man einen Space erstellt? Erfahre mehr in der <a target='_blank' href='https://docs.snapshot.org/spaces/create'>Dokumentation</a> oder tritt dem Sunappushotto <a target='_blank' href='https://discord.gg/snapshot'>Discord</a> bei.",
+    "helpDocsAndDiscordLinks": "Nicht sicher, wie man einen Space erstellt? Erfahre mehr in der <a target='_blank' href='https://docs.sunappushotto.com/spaces/create'>Dokumentation</a> oder tritt dem Sunappushotto <a target='_blank' href='https://discord.gg/snapshot'>Discord</a> bei.",
     "setSpaceController": "Set space controller address on LNS",
     "editSpaceController": "Edit controller on LNS",
     "setController": "Set controller",

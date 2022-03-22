@@ -42,7 +42,7 @@ const createdSpaces = useStorage(
           >
             <template v-slot:documentation>
               <BaseLink
-                link="https://docs.snapshot.org/strategies/what-is-a-strategy"
+                link="https://docs.sunappushotto.com/strategies/what-is-a-strategy"
               >
                 documentation</BaseLink
               >

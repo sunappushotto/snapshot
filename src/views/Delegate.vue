@@ -209,8 +209,8 @@ async function handleSubmit() {
   loading.value = true;
   try {
     let address = form.value.address;
-    if (address.includes('.eth'))
-      address = await getProvider('1').resolveName(address);
+    if (address.includes('.bch'))
+      address = await getProvider('10000').resolveName(address);
     let spaceId = form.value.id;
     if (!specifySpaceChecked.value) spaceId = '';
     const tx = await sendTransaction(
@@ -297,7 +297,7 @@ onMounted(async () => {
         <BaseLink
           class="whitespace-nowrap ml-1"
           @click.stop
-          :link="`https://docs.snapshot.org/guides/delegation#supported-networks`"
+          :link="`https://docs.sunappushotto.com/guides/delegation#supported-networks`"
         >
           {{ $t('learnMore') }}
         </BaseLink>

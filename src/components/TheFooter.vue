@@ -25,7 +25,7 @@ const socials = [
   },
   {
     icon: 'gitbook',
-    link: 'https://docs.snapshot.org/'
+    link: 'https://docs.sunappushotto.com/'
   }
 ];
 </script>
