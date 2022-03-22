@@ -5,9 +5,9 @@ import {
 } from '@apollo/client/core';
 
 const uri =
-  import.meta.env.VITE_DEFAULT_NETWORK === '4'
-    ? 'https://api.thegraph.com/subgraphs/name/ensdomains/ensrinkeby'
-    : 'https://api.thegraph.com/subgraphs/name/ensdomains/ens';
+  import.meta.env.VITE_DEFAULT_NETWORK === '10001'
+    ? 'https://graph.bch.domains/subgraphs/name/graphprotocol/ens-amber'
+    : 'https://graph.bch.domains/subgraphs/name/graphprotocol/ens';
 
 const httpLink = createHttpLink({ uri });
 
