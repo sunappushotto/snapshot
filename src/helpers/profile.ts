@@ -3,7 +3,7 @@ import getProvider from '@sunappushotto/sunappushotto.js/src/utils/provider';
 import { call } from '@sunappushotto/sunappushotto.js/src/utils';
 
 function ensReverseRecordRequest(addresses) {
-  const network = '1';
+  const network = '10000';
   const provider = getProvider(network);
   const abi = [
     {
@@ -19,7 +19,7 @@ function ensReverseRecordRequest(addresses) {
   return call(
     provider,
     abi,
-    ['0x3671aE578E63FdF66ad4F3E12CC0c0d71Ac7510C', 'getNames', [addresses]],
+    ['0x67F0DD63065675830cba1f3CDb74390f4d5251E1', 'getNames', [addresses]],
     { blockTag: 'latest' }
   );
 }
