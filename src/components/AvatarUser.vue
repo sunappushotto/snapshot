@@ -48,7 +48,7 @@ watchEffect(() => {
         <div class="m-4">
           <a
             :href="
-              explorerUrl(proposal?.network || space?.network || '1', address)
+              explorerUrl(proposal?.network || space?.network || '10000', address)
             "
             target="_blank"
             class="mb-2 block"
