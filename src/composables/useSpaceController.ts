@@ -37,7 +37,7 @@ export function useSpaceController() {
     const address = spaceControllerInput.value
       ? getAddress(spaceControllerInput.value)
       : null;
-    return `ipns://storage.snapshot.page/registry/${address}/${keyURI}`;
+    return `ipns://storage.sunappushotto.com/registry/${address}/${keyURI}`;
   });
 
   async function waitForSetRecord(tx) {

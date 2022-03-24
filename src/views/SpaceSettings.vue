@@ -80,7 +80,7 @@ const textRecord = computed(() => {
   const address = web3Account.value
     ? getAddress(web3Account.value)
     : '<your-address>';
-  return `ipns://storage.snapshot.page/registry/${address}/${keyURI}`;
+  return `ipns://storage.sunappushotto.com/registry/${address}/${keyURI}`;
 });
 
 const isSpaceController = computed(() => {
