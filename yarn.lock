@@ -1021,10 +1021,10 @@
     fortmatic "^2.2.1"
     walletlink "^2.4.0"
 
-"@sunappushotto/sunappushotto.js@^0.3.55":
-  version "0.3.55"
-  resolved "https://registry.yarnpkg.com/@sunappushotto/sunappushotto.js/-/sunappushotto.js-0.3.55.tgz#4e84851baea66429c495a6fc094a46fff183a016"
-  integrity sha512-8Fb6TJ6ybPeM5S5ruNGRC8MNND0tWu0lzx0HLitR9jEhy1Ca1cJPxI+kWk/JP5ekCkPB6vkG0J8QpgA2yBKx1w==
+"@sunappushotto/sunappushotto.js@^0.3.56":
+  version "0.3.56"
+  resolved "https://registry.yarnpkg.com/@sunappushotto/sunappushotto.js/-/sunappushotto.js-0.3.56.tgz#1bcabb60bf5bd10fc24a923493fafb045e5bcef5"
+  integrity sha512-ffOilF5epALbJ2O3RuW+anSnnkFH3pLcJ5HDcJaYzOWrWAN6rCS3G+9TtZ03KFqst2DaHWCnMOYJEwGalH1jNA==
   dependencies:
     "@ensdomains/eth-ens-namehash" "^2.0.15"
     "@ethersproject/abi" "^5.0.4"
