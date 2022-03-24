@@ -468,7 +468,7 @@ async function handleSetRecord() {
               <template v-slot:info>
                 <BaseLink
                   class="flex items-center -mr-1"
-                  link="https://docs.snapshot.org/spaces/add-custom-domain"
+                  link="https://docs.sunappushotto.com/spaces/add-custom-domain"
                   hide-external-icon
                 >
                   <BaseIcon name="info" size="24" class="text-skin-text" />
@@ -527,7 +527,7 @@ async function handleSetRecord() {
                 {{ inputError('strategies') }}&nbsp;</span
               >
               <BaseLink
-                link="https://docs.snapshot.org/spaces/create#strategies"
+                link="https://docs.sunappushotto.com/spaces/create#strategies"
               >
                 {{ $t('learnMore') }}
               </BaseLink>

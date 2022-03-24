@@ -271,7 +271,7 @@
     "createASpace": "Crează un spațiu",
     "registerEnsButton": "Înregistrează-te",
     "supportedEnsTLDs": "Sufix domenii suportate",
-    "helpDocsAndDiscordLinks": "Nu ești sigur cum să creezi un spațiu? Află mai multe în documentația <a target='_blank' href='https://docs.snapshot.org/spaces/create'> </a> sau alătură-te la Sunappushotto <a target='_blank' href='https://discord.gg/snapshot'>Discord</a>.",
+    "helpDocsAndDiscordLinks": "Nu ești sigur cum să creezi un spațiu? Află mai multe în documentația <a target='_blank' href='https://docs.sunappushotto.com/spaces/create'> </a> sau alătură-te la Sunappushotto <a target='_blank' href='https://discord.gg/snapshot'>Discord</a>.",
     "setSpaceController": "Set space controller address on LNS",
     "editSpaceController": "Edit controller on LNS",
     "setController": "Set controller",

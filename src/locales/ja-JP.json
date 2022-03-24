@@ -271,7 +271,7 @@
     "createASpace": "スペースの作成",
     "registerEnsButton": "Register",
     "supportedEnsTLDs": "Supported domain endings",
-    "helpDocsAndDiscordLinks": "Not sure how to create a space? Learn more in the <a target='_blank' href='https://docs.snapshot.org/spaces/create'> documentation </a> or join Sunappushotto <a target='_blank' href='https://discord.gg/snapshot'>Discord</a>.",
+    "helpDocsAndDiscordLinks": "Not sure how to create a space? Learn more in the <a target='_blank' href='https://docs.sunappushotto.com/spaces/create'> documentation </a> or join Sunappushotto <a target='_blank' href='https://discord.gg/snapshot'>Discord</a>.",
     "setSpaceController": "Set space controller address on LNS",
     "editSpaceController": "Edit controller on LNS",
     "setController": "Set controller",

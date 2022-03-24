@@ -79,7 +79,7 @@ Here are all properties passed down to plugin components:
 
 ## Existing components/composables
 
-Any of the existing UI components in `src/components`, composables in `src/composables` or installed packages (like [snapshot.js](https://docs.snapshot.org/snapshot.js)) can be used normally.
+Any of the existing UI components in `src/components`, composables in `src/composables` or installed packages (like [snapshot.js](https://docs.sunappushotto.com/snapshot.js)) can be used normally.
 
 ```vue
 <script setup>

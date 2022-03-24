@@ -271,7 +271,7 @@
     "createASpace": "创建空间",
     "registerEnsButton": "注册",
     "supportedEnsTLDs": "支持的域名结尾",
-    "helpDocsAndDiscordLinks": "不知道如何创建空间？ 在 <a target='_blank' href='https://docs.snapshot.org/spaces/create'> 文档中了解更多信息</a> 或加入 Sunappushotto <a target='_blank' href='https:// /discord.gg/snapshot'>Discord</a>。",
+    "helpDocsAndDiscordLinks": "不知道如何创建空间？ 在 <a target='_blank' href='https://docs.sunappushotto.com/spaces/create'> 文档中了解更多信息</a> 或加入 Sunappushotto <a target='_blank' href='https:// /discord.gg/snapshot'>Discord</a>。",
     "setSpaceController": "在 LNS 上设置空间控制人地址",
     "editSpaceController": "在 LNS 上编辑控制人",
     "setController": "设置控制人",
